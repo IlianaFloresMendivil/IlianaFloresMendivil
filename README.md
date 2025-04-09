@@ -6,3 +6,9 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love to learn new things
 
+- Connect with me:
+  Linkedin: https://www.linkedin.com/in/iliana-flores-mendivil-894270324/
+
+-Lenguages and Tools: 
+  HTML, CSS, JS, JAVA, PYTHON, MySQL, MONGODB, FLUTTER
+
